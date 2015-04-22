@@ -1,0 +1,22 @@
+{
+  "name": "animate",
+  "version": "1.0.0",
+  "description": "Aplicacion con io.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jhon861228/animate.git"
+  },
+  "keywords": [
+    "io.js"
+  ],
+  "author": "Jhon Jairo Diaz Rueda",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/jhon861228/animate/issues"
+  },
+  "homepage": "https://github.com/jhon861228/animate"
+}
