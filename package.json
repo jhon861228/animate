@@ -18,5 +18,12 @@
   "bugs": {
     "url": "https://github.com/jhon861228/animate/issues"
   },
-  "homepage": "https://github.com/jhon861228/animate"
+  "homepage": "https://github.com/jhon861228/animate",
+  "dependencies": {
+    "st": "^0.5.3",
+    "webrtc2images": "^1.4.4"
+  },
+  "devDependencies": {
+    "browserify": "^9.0.8"
+  }
 }
