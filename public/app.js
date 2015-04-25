@@ -16,7 +16,7 @@ rtc.startVideo(function(err){
 
 var record = document.querySelector("#record");
 
-record.addEventListener('click',function(){
+record.addEventListener('click',function(e){
 	e.preventDefault();
 	rtc.recordVideo(function(err,frames){
 		console.log(frames);
